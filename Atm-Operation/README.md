@@ -69,7 +69,7 @@ cd Atm-Operation</code></pre>
 
 ## Screenshots
 <p>Add screenshots here to visually represent the application's GUI.</p>
-<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 200px;">
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 320px;">
 
 
 ## Possible Issues
