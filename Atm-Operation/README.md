@@ -25,13 +25,21 @@ This is a simple ATM system application built using Java Swing. The project prov
 - **`src/`**: Contains the source code for the ATM system application.
   - `ATMSystem.java`: Main file containing the implementation of the ATM system.
 
+
+- **`Atm-Operation/`**: Contains the all file for the ATM system Project.
+  - `out/production/Atm-Operation/`: Contains the all object file for the ATM system Project After compilation.
+    - `ATMSystem.class`: Object file of class containing the implementation of the ATM system.
+  - `src/`: Contains the source code for the ATM system application.
+    - `ATMSystem.java`: Main file containing the implementation of the ATM system.
+   
+      
 ## Setup Instructions
 
 <ol>
   <li>
     <strong>Clone the Repository</strong>
-    <pre><code>git clone https://github.com/yourusername/ATM-Operation-Machine.git
-cd ATM-Operation-Machine</code></pre>
+    <pre><code>git clone https://github.com/Bhya23cse/java-Projects.git
+cd Atm-Operation</code></pre>
   </li>
   <li>
     <strong>Open the Project in IntelliJ IDEA</strong>
