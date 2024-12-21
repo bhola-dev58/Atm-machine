@@ -1,82 +1,80 @@
-# Real-time-Charting-Box-Using-Java-Sockets
+# ATM Operation Machine
 
-
-This is a simple real-time chat application built using Java with a server-client architecture. The project consists of two parts:
-
-- **Server Side**: Handles incoming client connections and exchanges messages.
-- **Client Side**: Connects to the server and participates in the chat.
+This is a simple ATM system application built using Java Swing. The project provides a GUI-based simulation of an ATM machine that allows users to perform various banking operations.
 
 ## Features
-- Real-time messaging between server and client.
-- Simple GUI using Java's Swing framework.
-- Message handling and display in both the client and server.
-- Chat termination when either side sends the `"exit"` command.
+
+- **User Registration**: Allows users to register a new ATM card with a unique card number, PIN, and account number.
+- **ATM Card Insertion**: Simulates the insertion of an ATM card for further operations.
+- **PIN Reset**: Enables users to reset their ATM PIN securely.
+- **Login Functionality**: Provides secure login using card number and PIN.
+- **Withdrawal**: Allows users to withdraw money from their account.
+- **Deposit**: Enables users to deposit money into their account.
+- **Balance Inquiry**: Displays the current balance of the user.
+- **Mini Statement**: Provides a summary of the last five transactions.
+- **Logout**: Securely logs out the user and resets the session.
 
 ## Prerequisites
+
 - Java JDK 8 or later.
 - IntelliJ IDEA (or any other Java IDE).
-- Basic knowledge of networking in Java.
+- Basic understanding of Java Swing for GUI development.
 
 ## Project Structure
-- **`src/`**: Contains the source code for the server and client applications.
-  - `Server.java`: Code for the server-side application.
-  - `Client.java`: Code for the client-side application.
+
+- **`src/`**: Contains the source code for the ATM system application.
+  - `ATMSystem.java`: Main file containing the implementation of the ATM system.
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-`
-git clone https://github.com/Bhya23cse/realtime-chat-java.git
-cd realtime-chat-java`
-
-
-
-
-
- <h2>2. Open the Project in IntelliJ IDEA</h2>
+<ol>
+  <li>
+    <strong>Clone the Repository</strong>
+    <pre><code>git clone https://github.com/yourusername/ATM-Operation-Machine.git
+cd ATM-Operation-Machine</code></pre>
+  </li>
+  <li>
+    <strong>Open the Project in IntelliJ IDEA</strong>
     <ul>
-        <li>Open IntelliJ IDEA.</li>
-        <li>Click on <strong>File &gt; Open</strong> and select the folder where you cloned the project.</li>
+      <li>Open IntelliJ IDEA.</li>
+      <li>Click on <strong>File > Open</strong> and select the folder where you cloned the project.</li>
     </ul>
-
-   <h2>3. Run the Server</h2>
+  </li>
+  <li>
+    <strong>Run the Application</strong>
     <ul>
-        <li>Open <code>Server.java</code> in the editor.</li>
-        <li>Run the Server class by clicking on the green play button or pressing <code>Shift + F10</code>.</li>
-        <li>The server will be waiting for client connections.</li>
+      <li>Open <strong>ATMSystem.java</strong> in the editor.</li>
+      <li>Run the <strong>ATMSystem</strong> class by clicking on the green play button or pressing <strong>Shift + F10</strong>.</li>
     </ul>
-
-   <h2>4. Run the Client</h2>
+  </li>
+  <li>
+    <strong>Using the Application</strong>
     <ul>
-        <li>Open <code>Client.java</code> in the editor.</li>
-        <li>Modify the IP address in the code to your server's IP (e.g., <code>"localhost"</code> or your network IP).</li>
-        <li>Run the Client class similarly by clicking the play button or pressing <code>Shift + F10</code>.</li>
+      <li><strong>Register an ATM Card</strong>: Click the "Register ATM Card" button and fill in the details.</li>
+      <li><strong>Insert ATM Card</strong>: Enter the card number to proceed.</li>
+      <li><strong>Login</strong>: Enter the card number and PIN to access your account.</li>
+      <li><strong>Perform Transactions</strong>: Use the available buttons to withdraw, deposit, check balance, or view the mini-statement.</li>
+      <li><strong>Logout</strong>: Click "Logout" to end the session.</li>
     </ul>
+  </li>
+</ol>
 
-  <h2>5. Chatting</h2>
-    <ul>
-        <li>Once the client connects to the server, you can start typing messages in the text box.</li>
-        <li>Press <code>Enter</code> to send messages.</li>
-        <li>Type <code>"exit"</code> to terminate the chat from either side, both from the GUI and from the terminal/bash.</li>
-    </ul>
+## Screenshots
+<p>Add screenshots here to visually represent the application's GUI.</p>
 
-   <h2>Exiting from Bash</h2>
-    <ul>
-        <li>If running the chat from the terminal, simply type <code>"exit"</code> and press <code>Enter</code> to close the connection and exit the chat.</li>
-    </ul>
+## Possible Issues
+<ul>
+  <li><strong>Invalid Card Number or PIN</strong>: Ensure correct details during login or registration.</li>
+  <li><strong>Insufficient Balance</strong>: Validate balance before withdrawing money.</li>
+  <li><strong>Duplicate Card Number</strong>: Each card number must be unique during registration.</li>
+</ul>
 
-   <h2>Screenshots</h2>
-   <img align="" src="https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg">
- 
+## Customization
+<ul>
+  <li>Modify the default balance by changing the value in the <strong>User</strong> constructor.</li>
+  <li>Change the mini-statement size by adjusting the <strong>LinkedList</strong> capacity.</li>
+  <li>Enhance the GUI with additional styling or components as needed.</li>
+</ul>
 
-  <h2>Possible Issues</h2>
-    <ul>
-        <li><strong>Port Already in Use:</strong> Ensure the port <code>8080</code> is free by checking if any other service is using it.</li>
-        <li><strong>Firewall Blocking Connection:</strong> Allow Java through your firewall or disable the firewall temporarily.</li>
-    </ul>
-
-   <h2>Customization</h2>
-    <ul>
-        <li>You can change the port by modifying the <code>ServerSocket</code> initialization in the <code>Server.java</code> file.</li>
-        <li>To connect multiple clients, consider implementing multi-threading on the server-side.</li>
-    </ul>
+## License
+<p>This project is licensed under the <strong>MIT License</strong>.</p>
