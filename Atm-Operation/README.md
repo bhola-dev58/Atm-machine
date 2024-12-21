@@ -69,7 +69,30 @@ cd Atm-Operation</code></pre>
 
 ## Screenshots
 <p>Add screenshots here to visually represent the application's GUI.</p>
+<p>Add screenshots here to visually represent the application's GUI.</p>
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 320px; display:flex;">
+
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/register.png" style="width: 300px; height: 320px; display:flex;">
+
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/insert%20atm.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/atm%20found.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/login.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Operatiopns.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/amt%20to%20withdrawal.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/amt%20deposit.png" style="width: 300px; height: 320px;">
+
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/check%20balance.png" style="width: 300px; height: 320px;">
+
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/mini%20statement.png" style="width: 300px; height: 320px;">
+
 <img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 320px;">
+
 
 
 ## Possible Issues
