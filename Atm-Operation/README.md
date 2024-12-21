@@ -69,6 +69,7 @@ cd Atm-Operation</code></pre>
 
 ## Screenshots
 <p>Add screenshots here to visually represent the application's GUI.</p>
+<img align="" src="https://github.com/Bhya23cse/Real-time-Charting-Box-Using-Java-Sockets/blob/main/src/pn.jpg">
 
 ## Possible Issues
 <ul>
