@@ -110,5 +110,3 @@ cd Atm-Operation</code></pre>
   <li>Enhance the GUI with additional styling or components as needed.</li>
 </ul>
 
-## License
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
