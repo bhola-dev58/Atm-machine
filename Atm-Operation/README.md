@@ -72,7 +72,7 @@ cd Atm-Operation</code></pre>
 <p>
 <img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 320px; display:flex;">
 
-<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/register.png" style="width: 360px; height: 320px; display:flex;">
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/register.png" style="width: 380px; height: 320px; display:flex;">
 
 <img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/insert%20atm.png" style="width: 300px; height: 320px;">
 
