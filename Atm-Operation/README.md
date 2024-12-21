@@ -72,11 +72,11 @@ cd Atm-Operation</code></pre>
 <p>
 <img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/Home.png" style="width: 300px; height: 320px; display:flex;">
 
-<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/register.png" style="width: 300px; height: 320px; display:flex;">
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/register.png" style="width: 300px; height: 350px; display:flex;">
 
-<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/insert%20atm.png" style="width: 300px; height: 320px;">
+<img align="centre" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/insert%20atm.png" style="width: 300px; height: 360px;">
 
-<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/atm%20found.png" style="width: 300px; height: 320px;">
+<img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/atm%20found.png" style="width: 300px; height: 360px;">
 
 <img align="" src="https://github.com/Bhya23cse/java-Projects/blob/main/Atm-Operation/src/image/login.png" style="width: 300px; height: 320px;">
 
