@@ -39,7 +39,7 @@ This is a simple ATM system application built using Java Swing. The project prov
   <li>
     <strong>Clone the Repository</strong>
     <pre><code>git clone https://github.com/bhola-dev58/java-Projects.git
-cd java-Projects\Atm-Operation</code></pre>
+cd java-Projects\Atm-machine</code></pre>
   </li>
   <li>
     <strong>Open the Project in IntelliJ IDEA</strong>
